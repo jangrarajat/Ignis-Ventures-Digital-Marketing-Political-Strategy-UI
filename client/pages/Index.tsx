@@ -1424,7 +1424,7 @@ export default function Index() {
                   </div>
                   <div>
                     <h4 className="font-bold text-black text-lg mb-1">Call Now</h4>
-                    <p className="text-gray-600">+91 (XXX) XXX-XXXX</p>
+                   <span>+91 77339 52367</span> & <span>+91 97839 52367</span>
                   </div>
                 </div>
               </div>
@@ -1436,7 +1436,7 @@ export default function Index() {
                   </div>
                   <div>
                     <h4 className="font-bold text-black text-lg mb-1">Email Us</h4>
-                    <p className="text-gray-600">hello@ignisventures.com</p>
+                    <p className="text-gray-600">ignisventuresmedia@gmail.com</p>
                   </div>
                 </div>
               </div>
@@ -1448,7 +1448,7 @@ export default function Index() {
                   </div>
                   <div>
                     <h4 className="font-bold text-black text-lg mb-1">WhatsApp Chat</h4>
-                    <a href="https://wa.me/91XXXXXXXXX" target="_blank" rel="noopener noreferrer" className="text-red-600 hover:text-red-700 font-medium">
+                    <a href="https://wa.me/917733952367" target="_blank" rel="noopener noreferrer" className="text-red-600 hover:text-red-700 font-medium">
                       Chat with us
                     </a>
                   </div>

@@ -20,7 +20,7 @@ export const Footer = () => {
             </div>
             <p className="text-gray-400 text-sm mb-4">Igniting Digital Growth & Political Impact</p>
             <div className="flex gap-3">
-              <a href="#" className="p-2 bg-red-600/20 hover:bg-red-600 rounded-lg transition-colors">
+              <a href="https://www.facebook.com/share/18FKwypUL6/?mibextid=wwXIfr" className="p-2 bg-red-600/20 hover:bg-red-600 rounded-lg transition-colors">
                 <Facebook size={16} />
               </a>
               <a href="#" className="p-2 bg-red-600/20 hover:bg-red-600 rounded-lg transition-colors">
@@ -29,7 +29,7 @@ export const Footer = () => {
               <a href="#" className="p-2 bg-red-600/20 hover:bg-red-600 rounded-lg transition-colors">
                 <Linkedin size={16} />
               </a>
-              <a href="#" className="p-2 bg-red-600/20 hover:bg-red-600 rounded-lg transition-colors">
+              <a href="https://www.instagram.com/ignis_ventures_?igsh=eW1mbXM0bWY1Zzd1&utm_source=qr" className="p-2 bg-red-600/20 hover:bg-red-600 rounded-lg transition-colors">
                 <Instagram size={16} />
               </a>
             </div>
@@ -65,11 +65,11 @@ export const Footer = () => {
             <div className="space-y-3 text-sm text-gray-400">
               <div className="flex items-center gap-2">
                 <Phone size={16} className="text-red-600" />
-                <span>+91 (XXX) XXX-XXXX</span>
+                <span>+91 77339 52367</span><span>+91 97839 52367</span>
               </div>
               <div className="flex items-center gap-2">
                 <Mail size={16} className="text-red-600" />
-                <span>hello@ignisventures.com</span>
+                <span>ignisventuresmedia@gmail.com</span>
               </div>
               <div className="flex items-start gap-2">
                 <MapPin size={16} className="text-red-600 mt-0.5" />
@@ -101,7 +101,7 @@ export const Footer = () => {
       {/* WhatsApp Floating Button */}
       <div className="fixed bottom-6 right-6 z-40">
         <a
-          href="https://wa.me/91XXXXXXXXX"
+          href="https://wa.me/917733952367"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center justify-center w-14 h-14 bg-green-500 hover:bg-green-600 text-white rounded-full shadow-lg hover:shadow-xl transition-all hover:scale-110 animate-bounce"
